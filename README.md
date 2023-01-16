@@ -66,7 +66,6 @@ Leon       | Camilla
 
 Shopping list
 ----------
-* Fruits
   * Apples
   * Oranges
   * Grapes
